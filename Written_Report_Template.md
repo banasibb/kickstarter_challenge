@@ -7,11 +7,11 @@ The analysis included data spanning from January 1, 2009 through December 31, 20
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
-
+![Chart 1](https://raw.githubusercontent.com/banasibb/kickstarter_challenge/<branch>/<path to file>)
 ### Analysis of Outcomes Based on Goals
 
 ### Challenges and Difficulties Encountered
-
+Within the Outcomes Based on Goals table, it would have been easier to write the formulas if the minimum and maximum dollar amount ranges had been in separate columns to allow cell references. 
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?<br /> 
