@@ -1,7 +1,7 @@
-# Kickstarting with Excel
+# Analysis of Campaign Outcomes by Launch Date and Goal
 
 ## Overview of Project
-This analysis was completed in Excel using a dataset that included performance of fundraised campaigns across eight categories and many subcategories. The data spans nine years, from January 1, 2009 through December 31, 2017. Relevant to this analysis is campaigns within the "Theater" parent category and "plays" subcategory. 
+This analysis was completed in Excel using a dataset that included performance of fundraised campaigns across eight categories and many subcategories. The data spans nine years, from January 1, 2009 through December 31, 2017. Relevant to this analysis are campaigns within the "Theater" parent category and "plays" subcategory. 
 ### Purpose
 The purpose of this analysis is to examine how different campaigns fared in relation to their launch dates and their funding goals. 
 ## Analysis and Challenges
