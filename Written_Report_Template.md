@@ -9,7 +9,7 @@ The analysis included data spanning from January 1, 2009 through December 31, 20
 ### Analysis of Outcomes Based on Launch Date
 ![Chart 1](https://github.com/banasibb/kickstarter_challenge/blob/7a4ce81c2bd8f0139ef41116c3364bb00b1ebad2/Theater_Outcomes_vs_Launch.png)
 ### Analysis of Outcomes Based on Goals
-![Chart 1](https://raw.githubusercontent.com/main/banasibb/kickstarter_challenge/Outcomes_Based_on_Goal.png)
+![Chart 1](https://github.com/banasibb/kickstarter_challenge/blob/0f72df11b4417d2661336f155ff7d5e9c19bfb3f/Outcomes%20Based%20on%20Goal.png)
 ### Challenges and Difficulties Encountered
 Within the Outcomes Based on Goals table, it would have been easier to write the formulas if the minimum and maximum dollar amount ranges had been in separate columns to allow cell references. 
 ## Results
