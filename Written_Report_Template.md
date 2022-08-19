@@ -7,7 +7,7 @@ The analysis included data spanning from January 1, 2009 through December 31, 20
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
-https://github.com/banasibb/kickstarter_challenge.git
+![Chart 1](https://github.com/banasibb/kickstarter_challenge/blob/7a4ce81c2bd8f0139ef41116c3364bb00b1ebad2/Theater_Outcomes_vs_Launch.png)
 ### Analysis of Outcomes Based on Goals
 ![Chart 1](https://raw.githubusercontent.com/main/banasibb/kickstarter_challenge/Outcomes_Based_on_Goal.png)
 ### Challenges and Difficulties Encountered
